@@ -7,4 +7,4 @@ tu pourras trouver ici quelques exercices proposés par THP sur le site de CodeW
 
 
 
-======================================    Merci pour ta visite!!    ===========================================
+                    ====================    Merci pour ta visite!!    =======================
