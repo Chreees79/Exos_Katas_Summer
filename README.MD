@@ -1,6 +1,10 @@
-#Bonjour à toi qui passe par là !!!
-
-##tu pourras trouver ici quelques exercices proposés par THP sur le site de CodeWars pour perfectionner notre code!!
+                                        Bonjour à toi qui passe par là !!!
 
 
-======================================    Merci pour ta visite!!    ===========================================
+
+tu pourras trouver ici quelques exercices proposés par THP sur le site de CodeWars pour perfectionner notre code!!
+
+
+
+
+                    ====================    Merci pour ta visite!!    =======================
